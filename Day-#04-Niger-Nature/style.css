@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: aliceblue;
+}
+
+.container1, .container2 {
+    margin: 5rem;
+    display: flex;
+}
+
+.container2 {
+    margin-top: 15rem;
+}
+
+.kanuri img, .fulbe img {
+    width: 22%;
+    border-radius: 14px;
+    position: absolute;
+}
+
+.text {
+    background-color: #B8B4E9;
+    width: 45%;
+    border-radius: 14px;
+    padding: 12px;
+    position: relative;
+    top: 9rem;
+    left: 5rem;
+}
+.text h5 {
+    font-size: 18px;
+    color: #543C97;
+    margin-bottom: 8px;
+    margin-top: 6px;
+    margin-left: 8px;
+}
+.text p {
+    margin-left: 8px;
+}
+.text a {
+    color: black;
+    font-weight: 600;
+    margin-left: 10rem;
+}
