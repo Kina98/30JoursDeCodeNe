@@ -1,0 +1,46 @@
+
+.container {
+    margin-top: 5rem;
+}
+
+.erreur {
+    margin-bottom: -12rem;
+    margin-left: 47rem;
+}
+
+.erreur span:nth-child(2n + 1) {
+    font-size: 800px;
+    font-weight: bold;
+    color: #6a3099;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+.erreur span img {
+    width: 25%;
+    height: 60%;
+    margin-top: 5rem;
+    border-radius: 50%;
+    border: 30px solid #6a3099;
+}
+
+.text {
+    text-align: center;
+}
+.text h5 {
+    font-size: 80px;
+    font-family:'Courier New', Courier, monospace;
+    color: #32243a;
+    margin-bottom: -2rem;
+}
+.text p {
+    font-size: 40px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.lien {
+    font-size: 33px;
+    color: #6a3099;
+    margin-left: 33rem;
+}
