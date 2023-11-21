@@ -1,0 +1,50 @@
+.container {
+    display: flex;
+    justify-content: center;
+    margin-top: 4rem;
+}
+
+.talk div {
+    margin: 2rem;
+}
+.talk  p span, p{
+    color: #800080;
+    font-weight: bold;
+}
+.talk div span i, .contact form span i {
+    margin: 8px;
+    font-size: 25px;
+    color: #1f8d4d;
+}
+
+.contact {
+    background-color: #AACBB8;
+    width: 20rem;
+    padding: 25px;
+    margin-left: 5rem;
+    border-top-left-radius: 27px;
+    border-bottom-right-radius: 27px;
+}
+.contact h1 {
+    text-align: center;
+}
+form span input {
+   background-color: transparent;
+    border: none;
+}
+.contact form span i {
+    font-size: 16px !important;
+}
+input:focus {
+    outline: none;
+}
+button {
+    background-color: #537F64;
+    border: none;
+    color: white;
+    padding: 12px;
+    width: 20rem;
+    border-radius: 18px;
+    font-size: 16px;
+    cursor: pointer;
+}
