@@ -1,0 +1,32 @@
+body > div:nth-child(1) {
+    background-color: #8f47e6;
+    padding: 25px;
+}
+body > div:nth-child(2) {
+    background-color: pink;
+    display: flex;
+    justify-content: center;
+}
+.couleur1 {
+    background-color: #A869F3;
+   width: 15%;
+}
+.couleur2 {
+    margin-left: 12px;
+}
+.couleur3 {
+    background-color: #F0DAFF;
+    width: 170%;
+    padding: 6rem;
+}
+.couleur4 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 1px;
+}
+.couleur4 div {
+    background-color: #F0DAFF;
+    width: 100%;
+    height: 100px;
+    margin: 10px;
+}
